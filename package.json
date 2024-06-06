@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "private": true,
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Mayank Pratap Singh",
+    "email": "mayank.irna123@gmail.com",
+    "url": "https://github.com/Anonymous-IITBHU"
   },
-  "description": "Sanidhya is a full-stack developer with 4 years of experience.",
+  "description": "Mayank | Developer",
   "keywords": [
     "reactjs",
     "nextjs",
@@ -32,12 +32,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/portfolio.git"
+    "url": "https://github.com/Anonymous-IITBHU/Portfolio"
   },
-  "homepage": "https://github.com/sanidhyy/portfolio#readme",
+  "homepage": "https://github.com/Anonymous-IITBHU/Portfolio",
   "bugs": {
-    "url": "https://github.com/sanidhyy/portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/Anonymous-IITBHU/Portfolio",
+    "email": "mayank.irna123@gmail.com"
   },
   "scripts": {
     "dev": "next dev",
@@ -75,11 +75,11 @@
   "funding": [
     {
       "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "url": ""
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": ""
     }
   ]
 }
